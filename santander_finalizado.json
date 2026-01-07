@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "João",
+        "account": {
+            "id": 1,
+            "number": "00001-1",
+            "agency": "0001",
+            "balance": 0,
+            "limit": 500
+        },
+        "card": {
+            "id": 4,
+            "number": "8765 4321 2345 6789",
+            "limit": 6000
+        },
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Temos uma oferta VIP para você, João! Use seu limite de R$6000 para compras em nossa loja com 10% de cashback."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Maria",
+        "account": {
+            "id": 2,
+            "number": "00002-2",
+            "agency": "0001",
+            "balance": 1500,
+            "limit": 1000
+        },
+        "card": {
+            "id": 1,
+            "number": "1234 5678 9876 5432",
+            "limit": 5000
+        },
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Olá Maria! Seu saldo de R$1500 está parado. Conheça nossas opções de CDB com liquidez diária!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pedro",
+        "account": {
+            "id": 3,
+            "number": "00003-3",
+            "agency": "0002",
+            "balance": 300,
+            "limit": 700
+        },
+        "card": {
+            "id": 3,
+            "number": "5678 1234 4321 8765",
+            "limit": 5000
+        },
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Temos uma oferta VIP para você, Pedro! Use seu limite de R$5000 para compras em nossa loja com 10% de cashback."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ana",
+        "account": {
+            "id": 4,
+            "number": "00004-4",
+            "agency": "0002",
+            "balance": 800,
+            "limit": 1200
+        },
+        "card": {
+            "id": 2,
+            "number": "4321 8765 6789 2345",
+            "limit": 7000
+        },
+        "news": [
+            {
+                "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+                "description": "Temos uma oferta VIP para você, Ana! Use seu limite de R$7000 para compras em nossa loja com 10% de cashback."
+            }
+        ]
+    }
+]

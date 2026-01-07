@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "João",
+    "account": {
+      "id": 1,
+      "number": "00001-1",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+        "id" : 4,
+        "number": "8765 4321 2345 6789",
+        "limit": 6000
+    }
+  },
+  {
+    "id": 2,
+    "name": "Maria",
+    "account": {
+      "id": 2,
+      "number": "00002-2",
+      "agency": "0001",
+      "balance": 1500,
+      "limit": 1000
+    },
+    "card": {
+        "id" : 1,
+        "number": "1234 5678 9876 5432",
+        "limit": 5000
+    }
+  },
+  {
+    "id": 3,
+    "name": "Pedro",
+    "account": {
+      "id": 3,
+      "number": "00003-3",
+      "agency": "0002",
+      "balance": 300,
+      "limit": 700
+    },
+    "card": {
+        "id" : 3,
+        "number": "5678 1234 4321 8765",
+        "limit": 5000
+    }
+    
+  },
+    {
+        "id": 4,
+        "name": "Ana",
+        "account": {
+         "id": 4,
+          "number": "00004-4",
+          "agency": "0002",
+          "balance": 800,
+          "limit": 1200
+        },
+        "card": {
+            "id" : 2,
+            "number": "4321 8765 6789 2345",
+            "limit": 7000
+        }
+    }
+
+]
