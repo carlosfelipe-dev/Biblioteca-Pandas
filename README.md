@@ -1,4 +1,4 @@
-# Desafio-ETL-na-Pr-tica---DIO-Criando-um-Pipeline-de-Dados-Resiliente-com-Python
+# Desafio-ETL na Prática DIO Criando um Pipeline de Dados Resiliente com Python
 
 Este projeto é um pipeline ETL desenvolvido em Python. Ele simula uma campanha de marketing bancário onde os dados dos clientes são analisados para gerar recomendações financeiras personalizadas.
 
